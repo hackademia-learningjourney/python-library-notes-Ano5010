@@ -1,0 +1,21 @@
+Assignment - 1 
+
+Write short notes on the following python libraries:
+
+1. Pandas
+- Pandas is an open-source software library. It is used for working with data sets(data manipulation and analysis). It offers data structures and operations for manipulating numerical tables and time series. Pandas is built around data structures called Series and DataFrames.Pan das can require 5 to 10 times as much memory as the size of the underlying data, and the entire dataset must be loaded in RAM. As such, it has been criticized for its inefficiency. It also does not optimize query plans or support parallel computing across multiple cores Pandas is built upon another library, NumPy.
+
+2. NumPy
+- NumPy is an open-source software library used for working with arrays. It supports large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. NumPy’s high level syntax makes it accessible and productive for programmers from any background or experience level. NumPy supports a wide range of hardware and computing platforms, and plays well with distributed, GPU, and sparse array libraries.
+
+3.TensorFlow
+- TensorFlow is a free, open-source software library. It has a  particular focus  on training and interference of deep neural networks, among other tasks. Its flexible architecture allows for the easy deployment of computation across a variety of platforms. It was originally developed for Google's internal use in research and production by the Google Brain team.
+
+4. Keras
+- Keras is an open-source library that provides a Python interface for artificial neural networks. Keras' design enables fast experimentation with deep neural networks, and focuses on debugging speed, code elegance & conciseness, maintainability, and deployability. Keras works with JAX, TensorFlow, and PyTorch.
+
+5. Sklearn
+- Sklearn(Scikit-learn) is a free, open-source machine learning library featuring various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. 
+
+6. PyTorch 
+- Python is a machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It offers free and open-source software. It provides high level features such as: Tensor computing with strong acceleration via GPU, and deep neural networks built on a tape-based automatic differentiation system.
